@@ -33,6 +33,7 @@ Para executar os scripts do projeto Recnplay_Olhos, é necessário ter as seguin
 - OpenCV
 - dlib
 - Caffe (com a rede neural treinada apropriada)
+- Mediapipe
 
 Certifique-se de que todas as dependências estejam corretamente instaladas antes de executar os scripts.
 

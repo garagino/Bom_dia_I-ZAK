@@ -1,11 +1,8 @@
 # Recnplay_Olhos
-<!--
-Atualizações para o Futuro
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/garagino/recnplay_olhos?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/garagino/recnplay_olhos?style=flat&logo=python)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/garagino/recnplay_olhos?style=flat&logo=github)
 ![Commits](https://img.shields.io/github/commit-activity/t/garagino/recnplay_olhos?style=flat&logo=github)
---> 
 
 ## 🗪 Visão Geral
 

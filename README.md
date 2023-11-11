@@ -76,5 +76,37 @@ Para usar <nome_do_projeto>, siga estas etapas:
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/maluvsb">
+        <img src="https://avatars3.githubusercontent.com/maluvsb" width="100px;" alt="Foto de maluvsb"/><br>
+        <sub>
+          <b>Maria Luiza</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Raph03200">
+        <img src="https://avatars3.githubusercontent.com/Raph03200" width="100px;" alt="Foto de Raph03200"/><br>
+        <sub>
+          <b>Raphael Façanha</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NicoleVictory">
+        <img src="https://avatars3.githubusercontent.com/NicoleVictory" width="100px;" alt="Foto de Evaldo"/><br>
+        <sub>
+          <b>Nicole Victory</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MathBorgess">
+        <img src="https://avatars3.githubusercontent.com/MathBorgess" width="100px;" alt="Foto de Evaldo"/><br>
+        <sub>
+          <b>Matheus Borges</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>

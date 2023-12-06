@@ -132,5 +132,13 @@ Para usar <nome_do_projeto>, siga estas etapas:
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/filip-fernandes">
+        <img src="https://avatars3.githubusercontent.com/filip-fernandes" width="100px;" alt="Foto de Filip"/><br>
+        <sub>
+          <b>Filip Fernandes</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
